@@ -26,7 +26,7 @@ I am a **Flutter Developer** currently learning **Node.js, MongoDB**. Passionate
 
 ## 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Developer-Waqas&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Developer-Waqas&theme=tokyo-night)
 
 ---
 
