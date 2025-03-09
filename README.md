@@ -30,12 +30,6 @@ I am a **Flutter Developer** currently learning **Node.js, MongoDB**. Passionate
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://github.com/Developer-Waqas/Developer-Waqas/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🚀 Technologies & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
